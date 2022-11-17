@@ -1,7 +1,6 @@
-# InShare - easy file sharing
-Simple file sharing web app with drag and drop file upload
+# InShare - File Sharing App
+It is a  file sharing web app with drag and drop file upload built usn HTML,CSS,Javascript,NodeJS,MongoDB.
+This repo contains files regarding the frontend part of the app. 
 
-![demo gif](https://github.com/ShivamJoker/GIF-Demos/raw/master/inshare%20demo.gif)
-
-### Backend NodeJS codes can be found on @codersgyan Github
-https://github.com/codersgyan/inshare-apis
+### Backend files repo  can be found at
+https://github.com/ManojChowdary63/inShare_App_Backend
